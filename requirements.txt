@@ -1,0 +1,22 @@
+{
+  "sample_rate": 16000,
+  "seconds": 10,
+  "crop": "center",
+  "padding": "end_zeros",
+  "n_fft": 512,
+  "win_length": 400,
+  "hop_length": 320,
+  "n_mels": 64,
+  "fmin": 20,
+  "fmax": 8000,
+  "power": 2.0,
+  "db_ref": 1.0,
+  "top_db": null,
+  "mean": -32.581275939941406,
+  "std": 16.256940841674805,
+  "threshold": 0.5,
+  "labels": {
+    "0": "background",
+    "1": "vehicle"
+  }
+}
